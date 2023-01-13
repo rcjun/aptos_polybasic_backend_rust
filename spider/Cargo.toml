@@ -1,0 +1,4 @@
+[workspace]
+members = [
+	"nft_collections_trending",
+]
